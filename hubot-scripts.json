@@ -1,5 +1,6 @@
 [
   "redis-brain.coffee",
   "shipit.coffee",
-  "youtube-info.coffee"
+  "youtube-info.coffee",
+  "tweet-content.coffee"
 ]
