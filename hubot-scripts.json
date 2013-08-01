@@ -2,5 +2,6 @@
   "redis-brain.coffee",
   "shipit.coffee",
   "youtube-info.coffee",
+  "ruby.coffee",
   "tweet-content.coffee"
 ]
