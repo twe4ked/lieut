@@ -3,5 +3,6 @@
   "shipit.coffee",
   "youtube-info.coffee",
   "ruby.coffee",
+  "script.coffee",
   "tweet-content.coffee"
 ]
