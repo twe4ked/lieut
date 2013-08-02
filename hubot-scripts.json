@@ -1,5 +1,6 @@
 [
   "look-of-disapproval.coffee",
+  "polite.coffee",
   "redis-brain.coffee",
   "ruby.coffee",
   "script.coffee",
