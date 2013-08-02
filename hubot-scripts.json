@@ -1,4 +1,5 @@
 [
+  "alot.coffee",
   "look-of-disapproval.coffee",
   "polite.coffee",
   "redis-brain.coffee",
