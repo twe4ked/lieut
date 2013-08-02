@@ -6,6 +6,7 @@
   "script.coffee",
   "shipit.coffee",
   "talkative.coffee",
+  "tell.coffee",
   "tweet-content.coffee",
   "xkcd.coffee",
   "youtube-info.coffee"
