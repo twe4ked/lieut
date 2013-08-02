@@ -1,9 +1,9 @@
 [
   "redis-brain.coffee",
-  "shipit.coffee",
-  "youtube-info.coffee",
   "ruby.coffee",
-  "xkcd.coffee",
   "script.coffee",
-  "tweet-content.coffee"
+  "shipit.coffee",
+  "tweet-content.coffee",
+  "xkcd.coffee",
+  "youtube-info.coffee"
 ]
