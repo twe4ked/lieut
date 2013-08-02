@@ -5,6 +5,7 @@
   "ruby.coffee",
   "script.coffee",
   "shipit.coffee",
+  "talkative.coffee",
   "tweet-content.coffee",
   "xkcd.coffee",
   "youtube-info.coffee"
