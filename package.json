@@ -23,7 +23,8 @@
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "hubot-irc": "~0.1.17",
-    "ntwitter": "0.2.10"
+    "ntwitter": "0.2.10",
+    "underscore": "1.5.1"
   },
   "engines": {
     "node": ">= 0.8.x",
