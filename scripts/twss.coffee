@@ -21,5 +21,5 @@ module.exports = (robot) ->
       "That's what your mum said last night.",
     ]
   robot.hear /.*(big|small|long|hard|soft|mouth|face|good|fast|slow|in there|on there|in that|on that|wet|dry|on the|in the|suck|blow|jaw|all in|fit that|fit it|hurts|huge|balls|stuck)/i, (msg) ->
-    if Math.random(Date.now) > 0.5
+    if Math.random() > 0.7
       msg.send msg.random responses
